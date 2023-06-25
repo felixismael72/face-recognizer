@@ -14,7 +14,7 @@ if [[ $executionPath == *"image-processor" ]]; then
   | Cleaning Dependencies |
   +-----------------------+\
   "
-  python3 -m pip uninstall -y -r <(pip freeze)
+  python3 -m pip uninstall -y -r requirements.txt
   echo "\
   +-----------------------+
   |     Tyding App Up     |
