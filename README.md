@@ -14,6 +14,7 @@ This project is a Python application built with FastAPI that allows you to read 
 
 - Python 3.7 or higher
 - [Virtualenv](https://virtualenv.pypa.io/) (recommended)
+- CMake 3.26 or higher
 
 
 ## Setup
