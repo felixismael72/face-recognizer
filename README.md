@@ -1,4 +1,4 @@
-# Image Processor 
+# Face Recognizer
 
 This project is a Python application built with FastAPI that allows you to read images from requests, process them using computer vision techniques, and find matches in a database. It provides an API for image processing and matching operations, enabling you to integrate it with other applications or use it as a standalone service.
 
@@ -21,7 +21,7 @@ This project is a Python application built with FastAPI that allows you to read 
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/felixismael72/face-recognizer.git
    ```
 
 2. Run the project:
